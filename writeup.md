@@ -2,6 +2,8 @@
 
 This is my writeup addressing rubric points for the PID Controller Project.
 
+[(And here's a cool video!)](https://youtu.be/SrdFTXpXkR4)
+
 ## PID component effects
 
 When tuning the three parameters of the controller, it quickly became apparent which effect each of them had on the
@@ -38,3 +40,4 @@ In this case, however, the optimizer resulted in a minuscule value for the I fac
 much systematic bias.
 
 Ki: 0.00097335
+
